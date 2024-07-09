@@ -5,7 +5,7 @@ import traceback, collections
 
 """
 Programming
-Opdracht PROG: Geometrie
+Opdracht PROG: NS-Functies
 (c) 2024 Hogeschool Utrecht,
 Bart van Eijkelenburg (bart.vaneijkelenburg@hu.nl)
 
